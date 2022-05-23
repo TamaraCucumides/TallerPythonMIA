@@ -1,6 +1,7 @@
 # Taller de Python (y herramientas para Ciencia de Datos)
 
-## Contacto ayudantes:
+## Contacto
+Tamara Cucumides - tacucumides@uc.cl
 
 ## Contenidos: 
 
