@@ -16,4 +16,4 @@ Tamara Cucumides - tacucumides@uc.cl
 ## Clases (2022)
 | Sesion   |      Contenidos      |  Link |
 |:----------:|:-------------:|------|
-| #1 |  Numpy y Pandas ||
+| #1 |  Numpy y Pandas |https://drive.google.com/file/d/1G_ayG_jETFU4d6LVM1MNEAR1bmyky5H2/view?usp=sharing|
