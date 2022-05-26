@@ -17,3 +17,5 @@ Tamara Cucumides - tacucumides@uc.cl
 | Sesion   |      Contenidos      |  Link |
 |:----------:|:-------------:|------|
 | #1 |  Numpy y Pandas |https://drive.google.com/file/d/1G_ayG_jETFU4d6LVM1MNEAR1bmyky5H2/view?usp=sharing|
+| #1 |  Funciones, manejo de excepciones, clases y programacion funcional |https://drive.google.com/file/d/1gm9qyh3dL10l51QVEhh6zimRbNCLBG2Q/view?usp=sharing|
+| #1 |  Visualizaciones con Matplotlib y Seaborn |https://drive.google.com/file/d/1EbtsOzZopl7Tcoo9o1GpTqF6ajEFc9US/view?usp=sharing|
